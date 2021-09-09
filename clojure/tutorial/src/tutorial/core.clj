@@ -1,4 +1,4 @@
-(ns hello.core
+(ns tutorial.core
   (:gen-class))
 
 (defn -main
